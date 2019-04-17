@@ -1,0 +1,3 @@
+// ShowMascotEmoteAction
+
+Decompiled was cancelled.

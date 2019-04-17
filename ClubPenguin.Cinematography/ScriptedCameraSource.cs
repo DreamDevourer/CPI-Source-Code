@@ -1,0 +1,3 @@
+// ScriptedCameraSource
+
+Decompiled was cancelled.

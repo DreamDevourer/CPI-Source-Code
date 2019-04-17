@@ -1,0 +1,3 @@
+// PartyGameDataDefinition
+
+Decompiled was cancelled.

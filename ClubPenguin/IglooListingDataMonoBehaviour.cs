@@ -1,0 +1,3 @@
+// IglooListingDataMonoBehaviour
+
+Decompiled was cancelled.

@@ -1,0 +1,31 @@
+// PgpUserAttributeSubpacketVectorGenerator
+using Org.BouncyCastle.Bcpg;
+using Org.BouncyCastle.Bcpg.Attr;
+using Org.BouncyCastle.Bcpg.OpenPgp;
+using Org.BouncyCastle.Utilities;
+using System;
+using System.Collections;
+
+public class PgpUserAttributeSubpacketVectorGenerator
+{
+	private IList list = Platform.CreateArrayList();
+
+	public virtual void SetImageAttribute(ImageAttrib.Format imageType, byte[] imageData)
+	{
+		if (imageData == null)
+		{
+			throw new ArgumentException("attempt to set null image", "imageData");
+		}
+		list.Add(new ImageAttrib(imageType, imageData));
+	}
+
+	public virtual PgpUserAttributeSubpacketVector Generate()
+	{
+		UserAttributeSubpacket[] array = new UserAttributeSubpacket[list.Count];
+		for (int i = 0; i < list.Count; i++)
+		{
+			array[i] = (UserAttributeSubpacket)list[i];
+		}
+		return new PgpUserAttributeSubpacketVector(array);
+	}
+}

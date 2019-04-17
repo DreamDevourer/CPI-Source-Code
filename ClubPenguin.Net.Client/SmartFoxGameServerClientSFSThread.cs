@@ -1,0 +1,3 @@
+// SmartFoxGameServerClientSFSThread
+
+Decompiled was cancelled.

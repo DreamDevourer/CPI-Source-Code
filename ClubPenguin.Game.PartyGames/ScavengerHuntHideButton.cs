@@ -1,0 +1,3 @@
+// ScavengerHuntHideButton
+
+Decompiled was cancelled.

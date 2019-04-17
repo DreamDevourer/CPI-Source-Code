@@ -1,0 +1,4 @@
+// Object
+public class Object
+{
+}

@@ -1,0 +1,3 @@
+// ScheduledWorldObjectController
+
+Decompiled was cancelled.

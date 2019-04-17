@@ -1,0 +1,3 @@
+// SocketItemVarsAttribute
+
+Decompiled was cancelled.

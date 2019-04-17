@@ -1,0 +1,3 @@
+// IRestartable
+
+Decompiled was cancelled.

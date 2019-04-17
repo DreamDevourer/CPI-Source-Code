@@ -1,0 +1,3 @@
+// QuestAdventuresLog
+
+Decompiled was cancelled.

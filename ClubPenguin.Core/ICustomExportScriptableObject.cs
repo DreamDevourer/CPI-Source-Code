@@ -1,0 +1,4 @@
+// ICustomExportScriptableObject
+public interface ICustomExportScriptableObject
+{
+}

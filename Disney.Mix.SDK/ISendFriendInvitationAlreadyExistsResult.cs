@@ -1,0 +1,4 @@
+// ISendFriendInvitationAlreadyExistsResult
+public interface ISendFriendInvitationAlreadyExistsResult
+{
+}

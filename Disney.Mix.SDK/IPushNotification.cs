@@ -1,0 +1,4 @@
+// IPushNotification
+public interface IPushNotification
+{
+}

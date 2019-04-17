@@ -1,0 +1,3 @@
+// RemoveFriendshipInvitationNotificationEventArgs
+
+Decompiled was cancelled.

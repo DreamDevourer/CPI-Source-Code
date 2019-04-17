@@ -1,0 +1,3 @@
+// QuestLogChapterItem
+
+Decompiled was cancelled.

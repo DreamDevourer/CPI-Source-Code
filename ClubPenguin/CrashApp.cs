@@ -1,0 +1,4 @@
+// CrashApp
+public class CrashApp
+{
+}

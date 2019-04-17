@@ -1,0 +1,3 @@
+// HideWaypointArrow
+
+Decompiled was cancelled.

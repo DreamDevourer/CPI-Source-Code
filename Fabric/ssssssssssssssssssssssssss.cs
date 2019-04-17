@@ -1,0 +1,3 @@
+// TransitionToSnapshotData
+
+Decompiled was cancelled.

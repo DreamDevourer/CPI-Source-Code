@@ -1,0 +1,3 @@
+// IInternalRegistrationConfiguration
+
+Decompiled was cancelled.

@@ -1,0 +1,3 @@
+// ISendFriendInvitationResult
+
+Decompiled was cancelled.

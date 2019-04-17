@@ -1,0 +1,3 @@
+// VerifyAdultFailedNotAdultResult
+
+Decompiled was cancelled.

@@ -1,0 +1,4 @@
+// IValidateNewAccountError
+public interface IValidateNewAccountError
+{
+}

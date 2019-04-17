@@ -1,0 +1,3 @@
+// CoinsDataMonoBehaviour
+
+Decompiled was cancelled.

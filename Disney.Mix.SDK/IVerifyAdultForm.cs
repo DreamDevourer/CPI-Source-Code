@@ -1,0 +1,4 @@
+// IVerifyAdultForm
+public interface IVerifyAdultForm
+{
+}

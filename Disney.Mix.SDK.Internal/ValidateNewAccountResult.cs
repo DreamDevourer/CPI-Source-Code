@@ -1,0 +1,3 @@
+// ValidateNewAccountResult
+
+Decompiled was cancelled.

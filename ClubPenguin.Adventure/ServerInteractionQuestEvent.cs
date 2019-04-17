@@ -1,0 +1,3 @@
+// ServerInteractionQuestEvent
+
+Decompiled was cancelled.

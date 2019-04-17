@@ -1,0 +1,3 @@
+// ISendMassPushNotificationResult
+
+Decompiled was cancelled.

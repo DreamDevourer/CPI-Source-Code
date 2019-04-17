@@ -1,0 +1,3 @@
+// ChatEmotePanel
+
+Decompiled was cancelled.

@@ -1,0 +1,3 @@
+// GetLastQuestPathNodeAction
+
+Decompiled was cancelled.

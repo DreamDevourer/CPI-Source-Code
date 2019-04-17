@@ -1,0 +1,3 @@
+// QuestInventoryScreen
+
+Decompiled was cancelled.

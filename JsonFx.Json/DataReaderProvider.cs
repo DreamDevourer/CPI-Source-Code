@@ -1,0 +1,33 @@
+// DataReaderProvider
+using JsonFx.Json;
+using System;
+using System.Collections.Generic;
+
+public class DataReaderProvider : IDataReaderProvider
+{
+	private readonly IDictionary<string, IDataReader> ReadersByMime = new Dictionary<string, IDataReader>(StringComparer.OrdinalIgnoreCase);
+
+	public DataReaderProvider(IEnumerable<IDataReader> readers)
+	{
+		if (readers != null)
+		{
+			foreach (IDataReader reader in readers)
+			{
+				if (!string.IsNullOrEmpty(reader.ContentType))
+				{
+					ReadersByMime[reader.ContentType] = reader;
+				}
+			}
+		}
+	}
+
+	public IDataReader Find(string contentTypeHeader)
+	{
+		string key = DataWriterProvider.ParseMediaType(contentTypeHeader);
+		if (ReadersByMime.ContainsKey(key))
+		{
+			return ReadersByMime[key];
+		}
+		return null;
+	}
+}

@@ -1,0 +1,3 @@
+// IncomingFriendInvitationData
+
+Decompiled was cancelled.

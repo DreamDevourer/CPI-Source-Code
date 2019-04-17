@@ -1,0 +1,4 @@
+// PreCompInfo
+public interface PreCompInfo
+{
+}

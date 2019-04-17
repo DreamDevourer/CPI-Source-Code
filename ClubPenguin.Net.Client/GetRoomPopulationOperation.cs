@@ -1,0 +1,3 @@
+// GetRoomPopulationOperation
+
+Decompiled was cancelled.

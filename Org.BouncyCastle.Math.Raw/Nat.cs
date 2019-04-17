@@ -1,0 +1,3 @@
+// Nat
+
+Decompiled was cancelled.

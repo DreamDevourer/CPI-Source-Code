@@ -1,0 +1,3 @@
+// FriendInvitationSender
+
+Decompiled was cancelled.

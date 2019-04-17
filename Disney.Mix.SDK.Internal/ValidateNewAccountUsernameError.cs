@@ -1,0 +1,3 @@
+// ValidateNewAccountUsernameError
+
+Decompiled was cancelled.

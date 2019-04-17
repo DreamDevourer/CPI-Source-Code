@@ -1,0 +1,3 @@
+// IInternalLinkedUser
+
+Decompiled was cancelled.

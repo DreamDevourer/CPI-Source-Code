@@ -1,0 +1,3 @@
+// FishingCatchResponse
+
+Decompiled was cancelled.

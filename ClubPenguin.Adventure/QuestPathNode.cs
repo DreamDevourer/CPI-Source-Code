@@ -1,0 +1,3 @@
+// QuestPathNode
+
+Decompiled was cancelled.

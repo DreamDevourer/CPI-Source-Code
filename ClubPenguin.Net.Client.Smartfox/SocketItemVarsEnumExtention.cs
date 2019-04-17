@@ -1,0 +1,3 @@
+// SocketItemVarsEnumExtention
+
+Decompiled was cancelled.

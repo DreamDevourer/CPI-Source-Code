@@ -1,0 +1,3 @@
+// InvitationIndicatorController
+
+Decompiled was cancelled.

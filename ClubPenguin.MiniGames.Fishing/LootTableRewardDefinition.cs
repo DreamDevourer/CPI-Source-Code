@@ -1,0 +1,3 @@
+// LootTableRewardDefinition
+
+Decompiled was cancelled.

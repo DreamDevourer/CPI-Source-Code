@@ -1,0 +1,4 @@
+// IslandTargetPlaygroundControllerDeleteMe
+public class IslandTargetPlaygroundControllerDeleteMe
+{
+}

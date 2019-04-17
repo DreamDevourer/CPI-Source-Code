@@ -1,0 +1,3 @@
+// IPolynomialExtensionField
+
+Decompiled was cancelled.

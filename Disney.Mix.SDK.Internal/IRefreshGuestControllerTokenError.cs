@@ -1,0 +1,4 @@
+// IRefreshGuestControllerTokenError
+public interface IRefreshGuestControllerTokenError
+{
+}

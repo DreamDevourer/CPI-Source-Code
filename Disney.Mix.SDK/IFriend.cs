@@ -1,0 +1,3 @@
+// IFriend
+
+Decompiled was cancelled.

@@ -1,0 +1,3 @@
+// RewardPopupMascotButtonImage
+
+Decompiled was cancelled.

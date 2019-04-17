@@ -1,0 +1,3 @@
+// FishingMath
+
+Decompiled was cancelled.

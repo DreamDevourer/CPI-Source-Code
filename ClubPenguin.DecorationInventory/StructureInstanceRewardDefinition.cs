@@ -1,0 +1,3 @@
+// StructureInstanceRewardDefinition
+
+Decompiled was cancelled.

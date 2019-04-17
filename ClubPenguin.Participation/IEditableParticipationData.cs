@@ -1,0 +1,4 @@
+// IEditableParticipationData
+public interface IEditableParticipationData
+{
+}

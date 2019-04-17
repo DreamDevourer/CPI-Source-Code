@@ -1,0 +1,3 @@
+// WaitForPenguinColorChangeAction
+
+Decompiled was cancelled.

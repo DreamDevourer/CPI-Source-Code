@@ -1,0 +1,4 @@
+// IRegistrationPermission
+public interface IRegistrationPermission
+{
+}

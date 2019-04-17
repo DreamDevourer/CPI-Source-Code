@@ -1,0 +1,3 @@
+// InteractInWorldIconController
+
+Decompiled was cancelled.

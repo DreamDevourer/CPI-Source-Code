@@ -1,0 +1,3 @@
+// IValidateNewAccountPasswordCommonError
+
+Decompiled was cancelled.

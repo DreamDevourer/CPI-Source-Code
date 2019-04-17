@@ -1,0 +1,3 @@
+// FriendsStateHandler
+
+Decompiled was cancelled.

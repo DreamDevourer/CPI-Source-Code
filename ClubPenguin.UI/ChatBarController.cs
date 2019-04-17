@@ -1,0 +1,3 @@
+// ChatBarController
+
+Decompiled was cancelled.

@@ -1,0 +1,3 @@
+// ICustomTimer
+
+Decompiled was cancelled.

@@ -1,0 +1,3 @@
+// QuestLogDailyTasksItem
+
+Decompiled was cancelled.

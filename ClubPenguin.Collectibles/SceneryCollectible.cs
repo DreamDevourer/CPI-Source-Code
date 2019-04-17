@@ -1,0 +1,3 @@
+// SceneryCollectible
+
+Decompiled was cancelled.

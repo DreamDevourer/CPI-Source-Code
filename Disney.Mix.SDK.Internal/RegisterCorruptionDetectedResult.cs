@@ -1,0 +1,3 @@
+// RegisterCorruptionDetectedResult
+
+Decompiled was cancelled.

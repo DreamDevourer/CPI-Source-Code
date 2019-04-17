@@ -1,0 +1,6 @@
+// IReuseExistingGuestControllerLoginCorruptionDetectedResult
+using Disney.Mix.SDK;
+
+public interface IReuseExistingGuestControllerLoginCorruptionDetectedResult : IReuseExistingGuestControllerLoginResult
+{
+}

@@ -1,0 +1,3 @@
+// AdultVerificationStatusGetter
+
+Decompiled was cancelled.

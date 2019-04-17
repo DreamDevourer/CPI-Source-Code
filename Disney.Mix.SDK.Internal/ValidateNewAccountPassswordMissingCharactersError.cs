@@ -1,0 +1,6 @@
+// ValidateNewAccountPassswordMissingCharactersError
+using Disney.Mix.SDK;
+
+internal class ValidateNewAccountPassswordMissingCharactersError : IValidateNewAccountPassswordMissingCharactersError, IValidateNewAccountError
+{
+}
